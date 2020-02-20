@@ -1,0 +1,16 @@
+a11a962ad59083b4cb6671526d3f8aa5 *DESCRIPTION
+fb67106cf0216386af415cbf89db2d4c *NAMESPACE
+b7923bf8000cce59d9f4da696a73c058 *NEWS.md
+7b1be4307824e849ecf6804ddbdf1dab *R/create.pc.knockoff.R
+aff281b22ee58230eb5486f041150c8d *R/generate.knockoff.R
+35c4e919e34500da9fb4f2f69358c7f0 *R/importance.score.R
+e7bb68902687539d706d45920f07b6f9 *R/kobt.select.R
+8280f896554f9c1dfd86c3d9401d8cb2 *R/reduce.dim.R
+aa8f110425823c8307f3837deb57172c *README.md
+27ee24aec5d115e1fe693f3ceafb9524 *build/partial.rdb
+4f7d02e19e2e61077b6f4d2545aea158 *inst/REFERENCES.bib
+e7e28fb8813a16f2fde802da320c193c *man/create.pc.knockoff.Rd
+67272f8bd23be49aec10d2b5c8eff744 *man/generate.knockoff.Rd
+9391919843d1fea847187d6cac45b091 *man/importance.score.Rd
+a7064ef9adef5f06039aeaa82c5a0e50 *man/kobt.select.Rd
+d35c2e638dfe24cd10818a6c45deaf0f *man/reduce.dim.Rd
